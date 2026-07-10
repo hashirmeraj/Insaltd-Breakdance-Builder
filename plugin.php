@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Breakdance Custom Elements
+ * Plugin Name: Insaltd Breakdance Builder - Test
  * Plugin URI: https://breakdance.com/
  * Description: Boilerplate plugin to save your custom elements created with Element Studio.
  * Author: Breakdance
  * Author URI: https://breakdance.com/
  * License: GPLv2
- * Text Domain: breakdance
+ * Text Domain: insaltd-breakdance-builder-test
  * Domain Path: /languages/
  * Version: 0.0.1
  */
